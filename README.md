@@ -1,8 +1,9 @@
 # reyybails - the baileys support all base
 
+![rey](https://ar-hosting.pages.dev/1747015064481.jpg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)  
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green)  
-![Baileys](https://img.shields.io/badge/Baileys-Custom-orange)
+![Baileys](https://img.shields.io/badge/Baileys-Version-6.7.4)
 
 > Custom WhatsApp Multi-Device Bot based on [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys), built for automation, bug tools, and Telegram integration.
 
