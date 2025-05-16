@@ -23,7 +23,7 @@
 
 ## ⚙️ Requirements
 
-- Node.js `>=18.x`
+- Node.js `>=20.x+`
 - Git
 - WhatsApp Number (paired with device)
 - Telegram Bot Token (if Telegram interface is used)
